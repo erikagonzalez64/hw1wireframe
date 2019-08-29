@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <div id=bannerspan>
+        <section id-namebox>
+        Erika Gonzalez!
+        </section>
+
+        <nav>
+            <section class="navigation">
+                <a class="navigation" href="index.html">About</a>
+                <span></span>
+                <a class="navigation" href="portfolio.html">Portfolio</a>
+                <a class="navigation" href="contact.html">Contact</a>
+            </section>
+         </nav>
+        </div>
+    </header>
+
+    <section id=main>
+        <h1>About Me</h1> <br>
+    <div class="floatleft";>
+        <img src="https://jrdunnphotography.smugmug.com/Sports/20182019-JHS-Girls-Soccer/i-ckWzcP8/A" width=200px; alt="JDiddy's picture">
+    </div>
+    <section id=main> Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta nam fugiat velit nesciunt possimus earum nemo eos neque rem perspiciatis rerum, iste eaque dolorem vero quae, odio nobis. Voluptatibus, quibusdam.
+
+    </section>
+
+    
+</body>
+</html>

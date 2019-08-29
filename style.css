@@ -1,0 +1,50 @@
+body {
+    color: #777;
+    margin: 0 auto;
+    background: #777;
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: '960px'
+}
+header, nav, section, aside, footer {
+    background-color: white
+}
+
+header {
+    padding: 20px;
+
+}
+
+aside {
+    padding: 10px;
+}
+
+nav {
+    
+    padding: 20px;
+    
+}
+
+h1,p {
+    background-color: white;
+    color: gray;
+    padding: 20px; 
+}
+
+section {
+    padding: 20px;
+}
+
+article {
+    padding: 20px;
+    background: gray;
+    color: white
+}
+
+
+footer {
+    background-color: white;
+    clear: both;
+    padding: 20px;
+
+}
